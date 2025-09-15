@@ -1,2 +1,2 @@
 ﻿Başlık;Yazar;Yıl;Katkı;Yöntem;Ortam;Veri Seti;Benchmark;Zorluklar;Güçlü Yanlar
-"Survey on Large Language Model–Enhanced Reinforcement Learning","Cao et al.","2024","LLM-RL alanında ilk sistematik taksonomi; benchmark özetleri","Literature Survey","-","-","TextWorld, BabyAI, MiniGrid, WebArena","Benchmark çeşitliliği, LLM kontrol edilebilirliği","Kapsamlı sınıflandırma, güncel yöntem özetleri"
+"Survey on Large Language Model–Enhanced Reinforcement Learning";"Cao et al.";"2024";"LLM-RL alanında ilk sistematik taksonomi; benchmark özetleri";"Literature Survey";"-";"-";"TextWorld, BabyAI, MiniGrid, WebArena";"Benchmark çeşitliliği, LLM kontrol edilebilirliği";"Kapsamlı sınıflandırma, güncel yöntem özetleri"
